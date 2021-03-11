@@ -1,0 +1,3 @@
+This directory is necessary and needs to be empty. This directory is used to story
+temporary chunks of your database file. Once backup has been successfully uploaded
+the chunks from this directory are deleted.
